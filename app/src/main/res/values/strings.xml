@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW Thermometer</string>
+    <string name="temperature_title">Temperature in °C</string>
+    <string name="action_settings">Settings</string>
+    <string name="calibrationTitle">Calibration</string>
+    <string name="reset_calibration">Reset calibration</string>
+    <string name="sensorLocation">Where is my sensor?</string>
+</resources>
